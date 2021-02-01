@@ -49,3 +49,4 @@ public:
         return !neg ? static_cast<int>(ans) : static_cast<int>(-ans);*/
     }
 };
+
