@@ -33,6 +33,7 @@ public:
         }
         //删除头元素
         tail.pop();
+    }
         
         //再将队尾栈容器元素拷贝到队头栈容器中
         while(!tail.empty())
@@ -93,4 +94,4 @@ int main()
     cout<<"back:"<<q.back()<<endl;
     
     return 0;
-    }
+}
