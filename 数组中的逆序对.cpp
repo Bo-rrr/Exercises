@@ -49,5 +49,5 @@ public:
         return left + count + right;
     }
         
-    
+ 
 };
