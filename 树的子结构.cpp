@@ -1,12 +1,3 @@
-/*
-struct TreeNode {
-	int val;
-	struct TreeNode *left;
-	struct TreeNode *right;
-	TreeNode(int x) :
-			val(x), left(NULL), right(NULL) {
-	}
-};*/
 class Solution {
 public:
     // 已知相同的根结点，判断这两根结点下的子树是否相同
