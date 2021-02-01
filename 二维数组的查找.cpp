@@ -49,4 +49,3 @@ int main()
     cout<<solution.fun(arr2,target2)<<endl;
     return 0;
 }
-
